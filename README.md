@@ -1,2 +1,2 @@
-# ITasCode_DevOps_Cloud_InternshipJuly2025
+# ITasCode_DevOps_Cloud_Internship
 DevOps_Cloud_InternshipJuly2025
