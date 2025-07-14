@@ -47,11 +47,29 @@ git push training day1-topic-yourname:submissions/day1-yourname --force
    - Presentation-ready summary
    - Executable proof of work
 
-## ❓ Get Help
-1. Raise an issue in this repo for technical problems
-2. Tag @mentors in your PR comments
-3. Check examples in:
-   `/samples/model-submission/`
+## 💬 Team Communication Policy
+All discussions must happen through GitHub Discussions:
 
-[//]: # (Pro Tip: Make small commits throughout the day rather than one big push)
-```
+For technical help:
+Start a discussion in our Q&A category
+Tag relevant mentors (@mentor-username)
+
+  
+## Never share:
+
+Credentials
+Personal data
+Client-specific code
+
+
+## ⚠️ Important Rules
+Branch naming: dayX-topic-username (lowercase)
+
+Minimum requirements per submission:
+Every submission must include:
+   - Notes with minimum 5 key points
+   - Presentation-ready summary
+   - Executable proof of work
+
+
+Pro Tip: Use git commit --amend to improve your last commit before pushing
