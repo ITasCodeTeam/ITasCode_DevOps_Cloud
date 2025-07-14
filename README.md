@@ -2,7 +2,7 @@
 
 ```markdown
 
-![Submission Workflow](.github/ISSUE_TEMPLATE/workflow.png.png)
+![Submission Workflow](.github/ISSUE_TEMPLATE/workflow.png)
 
 # Student Submission Guide
 
