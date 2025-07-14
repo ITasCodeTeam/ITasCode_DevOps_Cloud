@@ -1,6 +1,9 @@
 # ITasCode_DevOps_Cloud
 
 ```markdown
+
+![Submission Workflow](.github/ISSUE_TEMPLATE/workflow.png.png)
+
 # Student Submission Guide
 
 ## 📌 How to Submit Your Daily Work
