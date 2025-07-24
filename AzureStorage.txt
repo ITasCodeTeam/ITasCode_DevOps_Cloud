@@ -1,0 +1,36 @@
+Azure Storage:
+Azure Storage is a Microsoft cloud service that provides scalable, durable, and secure storage for a variety of data types. It enables applications to store and access data objects in the cloud, supporting a wide range of scenarios like backup and restore, big data analytics, content serving, and more.
+
+Core Azure Storage Services
+
+Blob Storage (Binary Large Object)
+
+  Stores unstructured data such as images, videos, audio, documents.
+  Good for backups, streaming content, and serving files over the web.
+
+Types of blobs:
+
+Block blobs (for most files)
+Append blobs (for log files)
+Page blobs (for virtual hard disks)
+
+2. File Storage
+ 
+Managed file shares using the SMB/NFS protocols.
+Allows multiple VMs or users to access the same files.
+Useful for lift-and-shift applications and legacy file-sharing scenarios.
+
+3. Queue Storage
+
+Messaging store for communication between components of a distributed application.
+Helps decouple front-end and back-end processing.
+
+4. Table Storage (now part of Azure Cosmos DB Table API)
+
+NoSQL key-value storage for structured, non-relational data.
+Useful for large datasets that don't require complex joins.
+
+5. Disk Storage
+
+Persistent, high-performance storage for Azure VMs.
+Comes in Premium, Standard SSD, and HDD tiers.
