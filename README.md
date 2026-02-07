@@ -8,7 +8,7 @@
 
 ## 📌 How to Submit Your Daily Work
 
-### 1️⃣ Work in Your Personal GitHub
+### 1️⃣ Work in Your Personal GitHub.
 ```bash
 # Clone your personal repo (create private repo if new)
 git clone https://github.com/YOUR-USERNAME/devsecops-daily
